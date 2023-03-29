@@ -30,3 +30,7 @@ pull requestler kabul edilir. Büyük değişiklikler için lütfen önce  neyi 
 [MIT](https://github.com/furkanalkayaGH/kodluyoruzilkrepo/blob/main/LICENSE)
 
 
+## Project Screenshot
+
+![Project Screenshot](https://github.com/furkanalkayaGH/kodluyoruzilkrepo/blob/main/Screenshot.png)
+
